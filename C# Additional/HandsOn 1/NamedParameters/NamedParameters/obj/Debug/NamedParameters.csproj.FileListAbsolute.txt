@@ -1,7 +1,0 @@
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe.config
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\NamedParameters\NamedParameters\bin\Debug\NamedParameters.pdb
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\NamedParameters\NamedParameters\obj\Debug\NamedParameters.csprojAssemblyReference.cache
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\NamedParameters\NamedParameters\obj\Debug\NamedParameters.csproj.CoreCompileInputs.cache
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\NamedParameters\NamedParameters\obj\Debug\NamedParameters.exe
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\NamedParameters\NamedParameters\obj\Debug\NamedParameters.pdb

@@ -1,7 +1,0 @@
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 2\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe.config
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 2\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 2\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.pdb
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 2\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csprojAssemblyReference.cache
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 2\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csproj.CoreCompileInputs.cache
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 2\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.exe
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 2\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.pdb
