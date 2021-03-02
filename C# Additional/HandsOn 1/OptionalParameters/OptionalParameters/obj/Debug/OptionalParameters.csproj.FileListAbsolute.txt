@@ -1,7 +1,0 @@
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe.config
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.pdb
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csprojAssemblyReference.cache
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csproj.CoreCompileInputs.cache
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.exe
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.pdb
