@@ -1,7 +1,0 @@
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\NUnit\HandsOn 2\CalcLibrary2\CalcLibrary2\bin\Debug\CalcLibrary2.exe.config
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\NUnit\HandsOn 2\CalcLibrary2\CalcLibrary2\bin\Debug\CalcLibrary2.exe
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\NUnit\HandsOn 2\CalcLibrary2\CalcLibrary2\bin\Debug\CalcLibrary2.pdb
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\NUnit\HandsOn 2\CalcLibrary2\CalcLibrary2\obj\Debug\CalcLibrary2.csprojAssemblyReference.cache
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\NUnit\HandsOn 2\CalcLibrary2\CalcLibrary2\obj\Debug\CalcLibrary2.csproj.CoreCompileInputs.cache
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\NUnit\HandsOn 2\CalcLibrary2\CalcLibrary2\obj\Debug\CalcLibrary2.exe
-C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\NUnit\HandsOn 2\CalcLibrary2\CalcLibrary2\obj\Debug\CalcLibrary2.pdb
