@@ -1,0 +1,10 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\AsyncAwait2\AsyncAwait2\bin\Debug\AsyncAwait2.exe.config
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\AsyncAwait2\AsyncAwait2\bin\Debug\AsyncAwait2.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\AsyncAwait2\AsyncAwait2\bin\Debug\AsyncAwait2.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.Form1.resources
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.Properties.Resources.resources
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.csproj.GenerateResource.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 1\AsyncAwait2\AsyncAwait2\obj\Debug\AsyncAwait2.pdb
