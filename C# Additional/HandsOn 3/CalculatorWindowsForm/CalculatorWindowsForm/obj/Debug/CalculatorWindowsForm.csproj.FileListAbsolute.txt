@@ -1,0 +1,10 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 3\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.exe.config
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 3\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 3\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 3\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 3\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.Form1.resources
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 3\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.Properties.Resources.resources
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 3\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csproj.GenerateResource.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 3\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 3\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 3\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.pdb
