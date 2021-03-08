@@ -1,0 +1,10 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 4\WindowsFormsFileUpload\WindowsFormsFileUpload\bin\Debug\WindowsFormsFileUpload.exe.config
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 4\WindowsFormsFileUpload\WindowsFormsFileUpload\bin\Debug\WindowsFormsFileUpload.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 4\WindowsFormsFileUpload\WindowsFormsFileUpload\bin\Debug\WindowsFormsFileUpload.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 4\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 4\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.Form1.resources
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 4\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.Properties.Resources.resources
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 4\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.csproj.GenerateResource.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 4\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 4\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 4\WindowsFormsFileUpload\WindowsFormsFileUpload\obj\Debug\WindowsFormsFileUpload.pdb
