@@ -1,0 +1,9 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 5\WindowsService_WriteInInterval\WindowsService_WriteInInterval\bin\Debug\WindowsService_WriteInInterval.exe.config
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 5\WindowsService_WriteInInterval\WindowsService_WriteInInterval\bin\Debug\WindowsService_WriteInInterval.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 5\WindowsService_WriteInInterval\WindowsService_WriteInInterval\bin\Debug\WindowsService_WriteInInterval.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 5\WindowsService_WriteInInterval\WindowsService_WriteInInterval\obj\Debug\WindowsService_WriteInInterval.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 5\WindowsService_WriteInInterval\WindowsService_WriteInInterval\obj\Debug\WindowsService_WriteInInterval.ProjectInstaller.resources
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 5\WindowsService_WriteInInterval\WindowsService_WriteInInterval\obj\Debug\WindowsService_WriteInInterval.csproj.GenerateResource.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 5\WindowsService_WriteInInterval\WindowsService_WriteInInterval\obj\Debug\WindowsService_WriteInInterval.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 5\WindowsService_WriteInInterval\WindowsService_WriteInInterval\obj\Debug\WindowsService_WriteInInterval.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\C# Additional\HandsOn 5\WindowsService_WriteInInterval\WindowsService_WriteInInterval\obj\Debug\WindowsService_WriteInInterval.pdb
