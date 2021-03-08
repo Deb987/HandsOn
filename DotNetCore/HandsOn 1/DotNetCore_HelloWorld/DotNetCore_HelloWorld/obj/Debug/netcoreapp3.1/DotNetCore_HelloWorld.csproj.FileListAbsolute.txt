@@ -1,0 +1,13 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\bin\Debug\netcoreapp3.1\DotNetCore_HelloWorld.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\bin\Debug\netcoreapp3.1\DotNetCore_HelloWorld.deps.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\bin\Debug\netcoreapp3.1\DotNetCore_HelloWorld.runtimeconfig.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\bin\Debug\netcoreapp3.1\DotNetCore_HelloWorld.runtimeconfig.dev.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\bin\Debug\netcoreapp3.1\DotNetCore_HelloWorld.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\bin\Debug\netcoreapp3.1\DotNetCore_HelloWorld.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\obj\Debug\netcoreapp3.1\DotNetCore_HelloWorld.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\obj\Debug\netcoreapp3.1\DotNetCore_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\obj\Debug\netcoreapp3.1\DotNetCore_HelloWorld.AssemblyInfo.cs
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\obj\Debug\netcoreapp3.1\DotNetCore_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\obj\Debug\netcoreapp3.1\DotNetCore_HelloWorld.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\obj\Debug\netcoreapp3.1\DotNetCore_HelloWorld.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\.NET Core\HandsOn 1\DotNetCore_HelloWorld\DotNetCore_HelloWorld\obj\Debug\netcoreapp3.1\DotNetCore_HelloWorld.genruntimeconfig.cache
