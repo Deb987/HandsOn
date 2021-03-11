@@ -1,0 +1,6 @@
+C:\Users\Deb\Desktop\Office Work\Training\NUnit Testing\Practice Case Study\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe.config
+C:\Users\Deb\Desktop\Office Work\Training\NUnit Testing\Practice Case Study\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe
+C:\Users\Deb\Desktop\Office Work\Training\NUnit Testing\Practice Case Study\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.pdb
+C:\Users\Deb\Desktop\Office Work\Training\NUnit Testing\Practice Case Study\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\NUnit Testing\Practice Case Study\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.exe
+C:\Users\Deb\Desktop\Office Work\Training\NUnit Testing\Practice Case Study\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.pdb
