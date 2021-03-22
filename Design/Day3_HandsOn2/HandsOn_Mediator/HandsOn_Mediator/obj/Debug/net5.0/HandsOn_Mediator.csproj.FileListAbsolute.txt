@@ -1,0 +1,16 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\obj\Debug\net5.0\HandsOn_Mediator.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\obj\Debug\net5.0\HandsOn_Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\obj\Debug\net5.0\HandsOn_Mediator.AssemblyInfoInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\obj\Debug\net5.0\HandsOn_Mediator.AssemblyInfo.cs
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\obj\Debug\net5.0\HandsOn_Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\bin\Debug\net5.0\HandsOn_Mediator.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\bin\Debug\net5.0\HandsOn_Mediator.deps.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\bin\Debug\net5.0\HandsOn_Mediator.runtimeconfig.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\bin\Debug\net5.0\HandsOn_Mediator.runtimeconfig.dev.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\bin\Debug\net5.0\HandsOn_Mediator.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\bin\Debug\net5.0\ref\HandsOn_Mediator.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\bin\Debug\net5.0\HandsOn_Mediator.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\obj\Debug\net5.0\HandsOn_Mediator.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\obj\Debug\net5.0\ref\HandsOn_Mediator.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\obj\Debug\net5.0\HandsOn_Mediator.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn2\HandsOn_Mediator\HandsOn_Mediator\obj\Debug\net5.0\HandsOn_Mediator.genruntimeconfig.cache
