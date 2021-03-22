@@ -1,0 +1,16 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\bin\Debug\net5.0\HandsOn_Facade.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\bin\Debug\net5.0\HandsOn_Facade.deps.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\bin\Debug\net5.0\HandsOn_Facade.runtimeconfig.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\bin\Debug\net5.0\HandsOn_Facade.runtimeconfig.dev.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\bin\Debug\net5.0\HandsOn_Facade.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\bin\Debug\net5.0\ref\HandsOn_Facade.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\bin\Debug\net5.0\HandsOn_Facade.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\obj\Debug\net5.0\HandsOn_Facade.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\obj\Debug\net5.0\HandsOn_Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\obj\Debug\net5.0\HandsOn_Facade.AssemblyInfoInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\obj\Debug\net5.0\HandsOn_Facade.AssemblyInfo.cs
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\obj\Debug\net5.0\HandsOn_Facade.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\obj\Debug\net5.0\HandsOn_Facade.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\obj\Debug\net5.0\ref\HandsOn_Facade.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\obj\Debug\net5.0\HandsOn_Facade.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_Facade\HandsOn_Facade\obj\Debug\net5.0\HandsOn_Facade.genruntimeconfig.cache

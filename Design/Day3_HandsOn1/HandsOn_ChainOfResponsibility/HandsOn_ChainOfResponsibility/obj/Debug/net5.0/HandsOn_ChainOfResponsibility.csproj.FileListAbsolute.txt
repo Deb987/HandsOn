@@ -1,0 +1,16 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\bin\Debug\net5.0\HandsOn_ChainOfResponsibility.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\bin\Debug\net5.0\HandsOn_ChainOfResponsibility.deps.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\bin\Debug\net5.0\HandsOn_ChainOfResponsibility.runtimeconfig.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\bin\Debug\net5.0\HandsOn_ChainOfResponsibility.runtimeconfig.dev.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\bin\Debug\net5.0\HandsOn_ChainOfResponsibility.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\bin\Debug\net5.0\ref\HandsOn_ChainOfResponsibility.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\bin\Debug\net5.0\HandsOn_ChainOfResponsibility.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\obj\Debug\net5.0\HandsOn_ChainOfResponsibility.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\obj\Debug\net5.0\HandsOn_ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\obj\Debug\net5.0\HandsOn_ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\obj\Debug\net5.0\HandsOn_ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\obj\Debug\net5.0\HandsOn_ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\obj\Debug\net5.0\HandsOn_ChainOfResponsibility.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\obj\Debug\net5.0\ref\HandsOn_ChainOfResponsibility.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\obj\Debug\net5.0\HandsOn_ChainOfResponsibility.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn1\HandsOn_ChainOfResponsibility\HandsOn_ChainOfResponsibility\obj\Debug\net5.0\HandsOn_ChainOfResponsibility.genruntimeconfig.cache
