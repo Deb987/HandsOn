@@ -1,0 +1,16 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\obj\Debug\net5.0\CaseStudy_Observer.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\obj\Debug\net5.0\CaseStudy_Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\obj\Debug\net5.0\CaseStudy_Observer.AssemblyInfoInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\obj\Debug\net5.0\CaseStudy_Observer.AssemblyInfo.cs
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\obj\Debug\net5.0\CaseStudy_Observer.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\bin\Debug\net5.0\CaseStudy_Observer.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\bin\Debug\net5.0\CaseStudy_Observer.deps.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\bin\Debug\net5.0\CaseStudy_Observer.runtimeconfig.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\bin\Debug\net5.0\CaseStudy_Observer.runtimeconfig.dev.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\bin\Debug\net5.0\CaseStudy_Observer.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\bin\Debug\net5.0\ref\CaseStudy_Observer.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\bin\Debug\net5.0\CaseStudy_Observer.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\obj\Debug\net5.0\CaseStudy_Observer.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\obj\Debug\net5.0\ref\CaseStudy_Observer.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\obj\Debug\net5.0\CaseStudy_Observer.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Observer\obj\Debug\net5.0\CaseStudy_Observer.genruntimeconfig.cache

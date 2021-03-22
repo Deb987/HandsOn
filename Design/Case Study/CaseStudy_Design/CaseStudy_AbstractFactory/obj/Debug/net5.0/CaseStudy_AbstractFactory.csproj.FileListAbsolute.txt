@@ -1,0 +1,16 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\bin\Debug\net5.0\CaseStudy_AbstractFactory.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\bin\Debug\net5.0\CaseStudy_AbstractFactory.deps.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\bin\Debug\net5.0\CaseStudy_AbstractFactory.runtimeconfig.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\bin\Debug\net5.0\CaseStudy_AbstractFactory.runtimeconfig.dev.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\bin\Debug\net5.0\CaseStudy_AbstractFactory.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\bin\Debug\net5.0\ref\CaseStudy_AbstractFactory.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\bin\Debug\net5.0\CaseStudy_AbstractFactory.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\obj\Debug\net5.0\CaseStudy_AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\obj\Debug\net5.0\CaseStudy_AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\obj\Debug\net5.0\CaseStudy_AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\obj\Debug\net5.0\CaseStudy_AbstractFactory.AssemblyInfo.cs
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\obj\Debug\net5.0\CaseStudy_AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\obj\Debug\net5.0\CaseStudy_AbstractFactory.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\obj\Debug\net5.0\ref\CaseStudy_AbstractFactory.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\obj\Debug\net5.0\CaseStudy_AbstractFactory.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_AbstractFactory\obj\Debug\net5.0\CaseStudy_AbstractFactory.genruntimeconfig.cache

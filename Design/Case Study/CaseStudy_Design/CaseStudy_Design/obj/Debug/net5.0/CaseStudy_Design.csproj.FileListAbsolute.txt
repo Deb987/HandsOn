@@ -1,0 +1,16 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\bin\Debug\net5.0\CaseStudy_Design.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\bin\Debug\net5.0\CaseStudy_Design.deps.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\bin\Debug\net5.0\CaseStudy_Design.runtimeconfig.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\bin\Debug\net5.0\CaseStudy_Design.runtimeconfig.dev.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\bin\Debug\net5.0\CaseStudy_Design.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\bin\Debug\net5.0\ref\CaseStudy_Design.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\bin\Debug\net5.0\CaseStudy_Design.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\obj\Debug\net5.0\CaseStudy_Design.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\obj\Debug\net5.0\CaseStudy_Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\obj\Debug\net5.0\CaseStudy_Design.AssemblyInfoInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\obj\Debug\net5.0\CaseStudy_Design.AssemblyInfo.cs
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\obj\Debug\net5.0\CaseStudy_Design.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\obj\Debug\net5.0\CaseStudy_Design.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\obj\Debug\net5.0\ref\CaseStudy_Design.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\obj\Debug\net5.0\CaseStudy_Design.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Case Study\CaseStudy_Design\CaseStudy_Design\obj\Debug\net5.0\CaseStudy_Design.genruntimeconfig.cache
