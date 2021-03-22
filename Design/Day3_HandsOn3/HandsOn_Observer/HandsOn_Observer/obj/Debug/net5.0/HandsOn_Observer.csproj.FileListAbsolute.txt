@@ -1,0 +1,16 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\obj\Debug\net5.0\HandsOn_Observer.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\obj\Debug\net5.0\HandsOn_Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\obj\Debug\net5.0\HandsOn_Observer.AssemblyInfoInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\obj\Debug\net5.0\HandsOn_Observer.AssemblyInfo.cs
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\obj\Debug\net5.0\HandsOn_Observer.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\bin\Debug\net5.0\HandsOn_Observer.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\bin\Debug\net5.0\HandsOn_Observer.deps.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\bin\Debug\net5.0\HandsOn_Observer.runtimeconfig.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\bin\Debug\net5.0\HandsOn_Observer.runtimeconfig.dev.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\bin\Debug\net5.0\HandsOn_Observer.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\bin\Debug\net5.0\ref\HandsOn_Observer.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\bin\Debug\net5.0\HandsOn_Observer.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\obj\Debug\net5.0\HandsOn_Observer.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\obj\Debug\net5.0\ref\HandsOn_Observer.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\obj\Debug\net5.0\HandsOn_Observer.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day3_HandsOn3\HandsOn_Observer\HandsOn_Observer\obj\Debug\net5.0\HandsOn_Observer.genruntimeconfig.cache
