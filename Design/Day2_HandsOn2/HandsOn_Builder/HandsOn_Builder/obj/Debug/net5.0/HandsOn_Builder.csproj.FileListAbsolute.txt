@@ -1,0 +1,16 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\bin\Debug\net5.0\HandsOn_Builder.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\bin\Debug\net5.0\HandsOn_Builder.deps.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\bin\Debug\net5.0\HandsOn_Builder.runtimeconfig.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\bin\Debug\net5.0\HandsOn_Builder.runtimeconfig.dev.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\bin\Debug\net5.0\HandsOn_Builder.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\bin\Debug\net5.0\ref\HandsOn_Builder.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\bin\Debug\net5.0\HandsOn_Builder.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\obj\Debug\net5.0\HandsOn_Builder.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\obj\Debug\net5.0\HandsOn_Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\obj\Debug\net5.0\HandsOn_Builder.AssemblyInfoInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\obj\Debug\net5.0\HandsOn_Builder.AssemblyInfo.cs
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\obj\Debug\net5.0\HandsOn_Builder.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\obj\Debug\net5.0\HandsOn_Builder.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\obj\Debug\net5.0\ref\HandsOn_Builder.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\obj\Debug\net5.0\HandsOn_Builder.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Builder\HandsOn_Builder\obj\Debug\net5.0\HandsOn_Builder.genruntimeconfig.cache

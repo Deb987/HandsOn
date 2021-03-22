@@ -1,0 +1,16 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\bin\Debug\net5.0\HandsOn_Adapter.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\bin\Debug\net5.0\HandsOn_Adapter.deps.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\bin\Debug\net5.0\HandsOn_Adapter.runtimeconfig.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\bin\Debug\net5.0\HandsOn_Adapter.runtimeconfig.dev.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\bin\Debug\net5.0\HandsOn_Adapter.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\bin\Debug\net5.0\ref\HandsOn_Adapter.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\bin\Debug\net5.0\HandsOn_Adapter.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\obj\Debug\net5.0\HandsOn_Adapter.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\obj\Debug\net5.0\HandsOn_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\obj\Debug\net5.0\HandsOn_Adapter.AssemblyInfoInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\obj\Debug\net5.0\HandsOn_Adapter.AssemblyInfo.cs
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\obj\Debug\net5.0\HandsOn_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\obj\Debug\net5.0\HandsOn_Adapter.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\obj\Debug\net5.0\ref\HandsOn_Adapter.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\obj\Debug\net5.0\HandsOn_Adapter.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn2\HandsOn_Adapter\HandsOn_Adapter\obj\Debug\net5.0\HandsOn_Adapter.genruntimeconfig.cache
