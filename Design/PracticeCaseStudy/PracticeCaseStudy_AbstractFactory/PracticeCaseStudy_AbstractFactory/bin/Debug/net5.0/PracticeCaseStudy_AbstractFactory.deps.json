@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PracticeCaseStudy_AbstractFactory/1.0.0": {
+        "runtime": {
+          "PracticeCaseStudy_AbstractFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticeCaseStudy_AbstractFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
