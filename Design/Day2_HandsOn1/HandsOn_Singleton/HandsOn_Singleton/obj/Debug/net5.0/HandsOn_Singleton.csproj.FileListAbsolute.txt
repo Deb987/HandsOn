@@ -1,0 +1,16 @@
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\bin\Debug\net5.0\HandsOn_Singleton.exe
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\bin\Debug\net5.0\HandsOn_Singleton.deps.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\bin\Debug\net5.0\HandsOn_Singleton.runtimeconfig.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\bin\Debug\net5.0\HandsOn_Singleton.runtimeconfig.dev.json
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\bin\Debug\net5.0\HandsOn_Singleton.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\bin\Debug\net5.0\ref\HandsOn_Singleton.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\bin\Debug\net5.0\HandsOn_Singleton.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\obj\Debug\net5.0\HandsOn_Singleton.csprojAssemblyReference.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\obj\Debug\net5.0\HandsOn_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\obj\Debug\net5.0\HandsOn_Singleton.AssemblyInfoInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\obj\Debug\net5.0\HandsOn_Singleton.AssemblyInfo.cs
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\obj\Debug\net5.0\HandsOn_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\obj\Debug\net5.0\HandsOn_Singleton.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\obj\Debug\net5.0\ref\HandsOn_Singleton.dll
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\obj\Debug\net5.0\HandsOn_Singleton.pdb
+C:\Users\Deb\Desktop\Office Work\Training\Hands On & Assessments\Design\Day2_HandsOn1\HandsOn_Singleton\HandsOn_Singleton\obj\Debug\net5.0\HandsOn_Singleton.genruntimeconfig.cache
